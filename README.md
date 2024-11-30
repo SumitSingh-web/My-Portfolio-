@@ -1,9 +1,9 @@
-1. # My-Portfolio
+ # My-Portfolio
  
-2. *I WANT TO TELL YOU ABOUT MY SELF.*
+1. *I WANT TO TELL YOU ABOUT MY SELF.*
 
-3. <NAME> SUMIT SINGH
+2. <NAME> SUMIT SINGH
 
-4. <Education> Complete Secondry School
+3. <Education> Complete Secondry School
  
-5. <Skill> I am a YouTuber and I upload short videos related to the show *Taarak Mehta Ka Ooltah Chashmah*
+4. <Skill> I am a YouTuber and I upload short videos related to the show *Taarak Mehta Ka Ooltah Chashmah*
